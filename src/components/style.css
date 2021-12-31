@@ -1,0 +1,35 @@
+#parentComment {
+    background-color: #063970;
+    display: flex;
+    padding: 5%;
+    color: white;
+}
+.post {
+    display: flex;
+
+}
+
+#personImg{
+ border-radius: 50%;
+ width: 30%;
+ height: 30%;
+ margin-bottom: 10%;
+
+}
+
+#comment {
+    margin-top: 2%;
+    margin-left: 2%;
+}
+#old {
+    font-size: 70%;
+    color: grey;
+}
+
+#commentBody {
+    font-weight: bold;
+}
+
+#commenter {
+    color:aliceblue;
+}
