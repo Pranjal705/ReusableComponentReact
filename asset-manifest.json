@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReusableComponentReact/static/css/main.7caf4ec0.css",
+    "main.js": "/ReusableComponentReact/static/js/main.a9a70b89.js",
+    "index.html": "/ReusableComponentReact/index.html",
+    "main.7caf4ec0.css.map": "/ReusableComponentReact/static/css/main.7caf4ec0.css.map",
+    "main.a9a70b89.js.map": "/ReusableComponentReact/static/js/main.a9a70b89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7caf4ec0.css",
+    "static/js/main.a9a70b89.js"
+  ]
+}
